@@ -1,5 +1,10 @@
+# 출처
+https://github.com/neolord0/hwplib<br>
+위 레포지토리에서 자바 버전업 등 개발환경에 맞추고 기타 컴파일 버그를 수정한 버전입니다.
+
 # 설치 명령어
 mvn clean install -DskipTests
+
 # hwplib
 
 한글과 컴퓨터(한컴)에서 만든 워드프로세서 "한글"의 파일에 대한 라이브러리입니다.<br>
