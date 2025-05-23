@@ -4,6 +4,7 @@ https://github.com/neolord0/hwplib<br>
 
 # 설치 명령어
 mvn clean install -DskipTests
+mvn clean compile quarkus:dev "-Dquarkus.enforceBuildGoal=false"
 
 # hwplib
 
